@@ -2,10 +2,6 @@
 
 
 
-
-function square($x) {
-		return $x * $x;
-}
-echo "Hello world: ", square(2), "\n";
+echo "Hello world", 2 + 2, "\n";
 
 ?>
